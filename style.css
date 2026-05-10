@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+}
+
+h1{
+    color: orange; 
+    text-align: center;
+    
+}
+
+footer{
+    background-color: pink;
+    padding: 3px;
+
+}
+
+footer p{
+    background-color: white;
+    padding: 3px;
+}body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    color: orange; 
+    text-align: center;
+    
+}
+
+footer{
+    background-color: pink;
+    padding: 3px;
+
+}
+
+footer p{
+    background-color: white;
+    padding: 3px;
+}
+
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration:none ;
+    color: white;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: navy;
+    padding: 5px;
+
+    
+}
+
+.popular {
+    background-color: white;
+    color: royalblue;
+    padding: 5px;
+}
+
+a img{
+    background-color: brown;
+}
+
+.priora {
+    background-color: brown;
+    margin: 10px;
+}
+
+h2 {
+    color: blue; 
+}
+
